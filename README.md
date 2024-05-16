@@ -3,3 +3,4 @@ In this R script we submit the code for the manuscript "Benthic remineralization
 Data downloads are specified with the dois of published datasets inside the R script from where the data where retrieved. For some analyses (i.e. multiple regression), the excel/csv files needed to run the code are submitted as attachment files.
 Make sure to download all data from data repositories in the same folder where the present R script is downloaded to.
 
+Cite the code: [![DOI](https://zenodo.org/badge/801434167.svg)](https://zenodo.org/doi/10.5281/zenodo.11202835)
